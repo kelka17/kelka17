@@ -36,7 +36,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark" /> </p>
+  <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark" />
 </td>
 <td width="50%" align="center">
 
